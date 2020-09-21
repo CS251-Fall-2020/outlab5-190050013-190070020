@@ -1,0 +1,8 @@
+Aggarwal,20022720,15
+Sanyal,12282240,10
+Garg,4752000,5
+Sample2,4449600,3
+Sample1,4449600,6
+Sharma,3939600,4
+Vahanwala,2631960,3
+Goswami,2624772,3
