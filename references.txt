@@ -1,2 +1,4 @@
 6
 https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
+https://unix.stackexchange.com/questions/122390/sort-data-in-descending-order-of-first-column-for-equal-values-use-second-colu
+https://askubuntu.com/questions/844084/how-to-use-sort-on-an-awk-print-command
