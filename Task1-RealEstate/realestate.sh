@@ -18,5 +18,6 @@ else
 		income=rent - 12*$3*$6;
 		print $1,income,$3
 		}' ORS="\n" OFS="," "$file1" | sort -t',' -k2,2nr -k3,3n > "$file2"
+	awk -F "," '{print $1}' "$file2" > "$file3"
 fi
 exit 0
