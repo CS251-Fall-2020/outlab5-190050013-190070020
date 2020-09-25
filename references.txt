@@ -1,4 +1,4 @@
-6
+10
 https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
 https://unix.stackexchange.com/questions/122390/sort-data-in-descending-order-of-first-column-for-equal-values-use-second-colu
 https://askubuntu.com/questions/844084/how-to-use-sort-on-an-awk-print-command
@@ -7,3 +7,7 @@ https://www.tutorialspoint.com/awk/awk_loops.htm
 https://stackoverflow.com/questions/16203336/simple-awk-command-issue-fs-ofs-related
 https://www.geeksforgeeks.org/sed-command-linux-set-2/
 https://www.geeksforgeeks.org/sed-command-in-unix/
+https://www.grymoire.com/Unix/Awk.html#uh-14
+https://www.grymoire.com/Unix/Sed.html
+https://www.grymoire.com/Unix/Regular.html#toc_Regular_Expressions_and_Extended_Pattern_Matching
+https://www.grymoire.com/Unix/Grep.html
