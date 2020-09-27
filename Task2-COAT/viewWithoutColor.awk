@@ -3,7 +3,7 @@
 BEGIN {
 	FS=",";
 	RS="\r\n";
-	ORS="\r\n"
+	ORS="\n"
 	name_col = 0;
 	num_cols = 0;	
 }
@@ -34,7 +34,7 @@ BEGIN {
 		for (i=0; i<num_cols*20; i++) {
 			printf("-");
 		}
-		printf("\n")
+		printf("\n");
 	}
 	else {
 		for (i=1; i<=NF; i++) {

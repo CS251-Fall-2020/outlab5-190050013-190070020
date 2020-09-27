@@ -1,4 +1,4 @@
-10
+12
 https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
 https://unix.stackexchange.com/questions/122390/sort-data-in-descending-order-of-first-column-for-equal-values-use-second-colu
 https://askubuntu.com/questions/844084/how-to-use-sort-on-an-awk-print-command
@@ -11,3 +11,5 @@ https://www.grymoire.com/Unix/Awk.html#uh-14
 https://www.grymoire.com/Unix/Sed.html
 https://www.grymoire.com/Unix/Regular.html#toc_Regular_Expressions_and_Extended_Pattern_Matching
 https://www.grymoire.com/Unix/Grep.html
+https://www.tutorialspoint.com/awk/awk_user_defined_functions.htm
+https://stackoverflow.com/questions/1668649/how-to-keep-quotes-in-bash-arguments
