@@ -5,7 +5,7 @@ cre_req=$2;
 source ./resources/defineColors.sh;
 
 awk -v cr=$cre_req -v bf=$BLACK_FONT -v rf=$RED_FONT -v gf=$GREEN_FONT -v yf=$YELLOW_FONT -v bef=$BLUE_FONT -v mf=$MAGENTA_FONT -v cf=$CYAN_FONT -v wf=$WHITE_FONT -v bb=$BLACK_BACKGROUND -v rb=$RED_BACKGROUND -v gb=$GREEN_BACKGROUND -v yb=$YELLOW_BACKGROUND -v beb=$BLUE_BACKGROUND -v mb=$MAGENTA_BACKGROUND -v cb=$CYAN_BACKGROUND -v wb=$WHITE_BACKGROUND -v n=$RESET_ALL 'BEGIN{
-	RS="\r\n";
+	RS="\n";
 	ORS="\n";
 	Tag_col=0;
 }
